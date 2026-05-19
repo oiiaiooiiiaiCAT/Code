@@ -1,0 +1,14 @@
+各电控的任务：
+把注册GitHub的邮箱发给我。
+在14天的时间内（即截止于6月3日），步兵和英雄的电控需要弄清楚云台的逻辑，能够掌握如何操控遥控器，配合传感器，通过算法，控制云台。最后将git bash的推送方法和云台逻辑写到“summary_of_code_logic”文档中，通过git bash推送到GitHub仓库中。
+
+文档内容：
+“
+姓名 - git bash推送方法：
+xxx
+
+姓名 - 云台逻辑：
+xxx
+”
+
+建议：可以通过中科大的视频快速了解git bash，再配合deepseek了解其工作流程（把问题发给deepseek就行，git bash里复制是“ctrl + insert”,粘贴是“shift + insert”）
