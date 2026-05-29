@@ -19,7 +19,7 @@ cd 仓库名
 6.git commit -m "备注说明"
 7.git push origin main
 
-欧鸥 - 云台逻辑：
+欧鸥yo - 云台逻辑：
 拨动摇杆(CH2-YAW)
         │
         ▼
